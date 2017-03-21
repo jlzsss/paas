@@ -1,0 +1,19 @@
+{
+	"key": "jlz19821031",
+	"crypt": "aes-192",
+	"mode": "fast3",
+	"mtu" : 1350,
+	"sndwnd": 1024,
+	"rcvwnd": 1024,
+	"datashard": 10,
+	"parityshard": 3,
+	"dscp": 0,
+	"nocomp": false,
+	"acknodelay": true,
+	"nodelay": 0,
+	"interval": 40,
+	"resend": 0,
+	"nc": 0,
+	"sockbuf": 4194304,
+	"keepalive": 10
+}
